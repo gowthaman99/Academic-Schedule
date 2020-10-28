@@ -1,4 +1,4 @@
-﻿QuickSlots: A web-based timetable management system 
+﻿Academic Schedule: A web-based timetable management system 
 ----------
 
 
@@ -9,7 +9,7 @@
 * Light-Weight: The whole application, including all images,scripts and
   stylesheets, is only 1.35 MB uncompressed and just 714KB when compressed.
 
-* Fully automated installer: QuickSlots comes with a fully automated installer,
+* Fully automated installer: Academic Shedule comes with a fully automated installer,
   meaning that the administrator just has to run the installer and does not
   have to look into ANY PART OF THE SOURCE CODE AT ALL.
 
@@ -94,9 +94,9 @@ Timetable Allocation:
 *  .\js\capture.js
     -- Contains PhantomJS routines for printable table snapshot generation
 *  .\css\styles.css
-    -- Defines generic styles shared by the whole QuickSlots UI
+    -- Defines generic styles shared by the whole Academic Shedule UI
 *  .\css\table.css
-    -- Defines generic styles for QuickSlots table grids
+    -- Defines generic styles for Academic Shedule table grids
 *  .\css\dashboard.css
     -- Defines the stylings for various elements of the dashboard
 
