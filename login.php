@@ -50,7 +50,7 @@ if(sessionCheck('logged_in'))
   <link rel="shortcut icon" type="image/png" href="images/favicon.png"/>
   <script src="js/jquery.min.js"></script>
   <link href="css/styles.css" rel="stylesheet" type="text/css" />
-  <title>QuickSlots | Login</title>
+  <title>Academic Schedule | Login</title>
   <script src="js/form.js"></script>
 </head>
 

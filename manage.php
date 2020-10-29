@@ -16,7 +16,7 @@ require_once ('connect_db.php');
 <!DOCTYPE HTML>
 <html>
 <head>
-  <title>QuickSlots</title>
+  <title>Academic Schedule</title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <link rel="shortcut icon" type="image/png" href="images/favicon.png"/>
   <link rel="stylesheet" type="text/css" href="css/styles.css">
