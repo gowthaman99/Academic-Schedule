@@ -2,7 +2,7 @@
 
 /**
  * Provides interface and back end routines for allocation of courses to time slots
- * @author Avin E.M
+ * @author Hema,Swathi,Kavya,Mamdha
  */
 
 require_once('functions.php');

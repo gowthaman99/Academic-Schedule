@@ -2,7 +2,7 @@
 
 /**
  * Provides interface for initial system setup and dean account registration.
- * @author Avin E.M
+ * @author Hema,Swathi,Kavya,Mamdha
  */
 
 if (file_exists('config.php'))

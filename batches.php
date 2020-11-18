@@ -2,7 +2,7 @@
 
 /**
  * Back end routines to add/delete batches, invoked by manage.php
- * @author Avin E.M
+ * @author Hema,Swathi,Kavya,Mamdha
  */
 
 require_once('functions.php');

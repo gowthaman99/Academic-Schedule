@@ -2,7 +2,7 @@
 
 /**
  * Back end routines that call PhantomJS to generate printable timetable snapshot images
- * @author Avin E.M
+ * @author Hema,Swathi,Kavya,Mamdha
  */
 
 require_once('functions.php');

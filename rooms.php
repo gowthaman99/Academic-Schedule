@@ -2,7 +2,7 @@
 
 /**
  * Back end routines to add/delete rooms, invoked by dean.php
- * @author Avin E.M
+ * @author Hema,Swathi,Kavya,Mamdha
  */
 
 require_once('functions.php');

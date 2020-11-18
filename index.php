@@ -2,7 +2,7 @@
 
 /**
  * Provides interface to display the timetable
- * @author Avin E.M
+ * @author Hema,Swathi,Kavya,Mamdha
  */
 
 require_once('functions.php');

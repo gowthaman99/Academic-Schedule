@@ -2,7 +2,7 @@
 
 /**
  * Provides interface and back end routines that handle user logins
- * @author Avin E.M
+ * @author Hema,Swathi,Kavya,Mamdha
  */
 
 require_once ('connect_db.php');

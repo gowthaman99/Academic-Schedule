@@ -2,7 +2,7 @@
 
 /**
  * Restricted to dean level users, provides interface and back end routines to manage departments, faculty, batches and rooms
- * @author Avin E.M
+ * @author Hema,Swathi,Kavya,Mamdha
  */
 
 require_once('functions.php');
