@@ -250,7 +250,7 @@ ALTER TABLE `slots`
   ADD CONSTRAINT `fk_timetable` FOREIGN KEY (`table_name`) REFERENCES `timetables` (`table_name`) ON DELETE CASCADE ON UPDATE CASCADE;
 
 --
--- Constraints for table `slot_allocs`
+-- Constraints for tables `slot_allocs`
 --
 ALTER TABLE `slot_allocs`
   ADD CONSTRAINT `fk_course` FOREIGN KEY (`course_id`) REFERENCES `courses` (`course_id`) ON DELETE CASCADE ON UPDATE CASCADE,
